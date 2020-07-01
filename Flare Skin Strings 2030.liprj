@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="af" xml:lang="af" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/cchristensen/AppData/Local/MadCap Software/Flare Skin Strings 2030/.git/" SourceSourceControlDatabaseRoot="https://github.com/carl4os/Flare-Lingo-double.git/" SourceProjectGuid="5f14ee1f-a660-42dc-8c86-13050cdb2c17" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="e3630b2d-36a7-49eb-a6ff-746b9801bfab">
+    <ProjectFile Source="Target/NewProject30.flprj" Target="Target/NewProject30.flprj" />
+</LingoProject>
